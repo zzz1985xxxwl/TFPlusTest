@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "eslint.options": {
+        "configFile": "E:/.eslintrc.js"
+    },
+    "eslint.run": "onSave"
+}
