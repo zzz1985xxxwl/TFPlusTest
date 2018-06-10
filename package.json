@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zzz1985xxxwl/TFPlusTest#readme",
   "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
     "http-server": "^0.11.1"
   }
 }
