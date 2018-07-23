@@ -22,7 +22,9 @@ module.exports = {
 		"getCurrentPages": true,
 		"Page": true,
 		"getApp": true,
-		"require": true
+		"require": true,
+		"TF": true,
+		"requirejs": true
 	},
 	"rules": {
 		// "indent": [
